@@ -1,0 +1,1 @@
+''Download this 'llama-2-7b-chat.ggmlv3.q4_0.bin' model from 'hugging face'
